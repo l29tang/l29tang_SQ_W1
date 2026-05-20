@@ -16,7 +16,9 @@ To play via GitHub Pages, visit the link provided on the submission page.
 | File | Source |
 |------|--------|
 | `assets/images/controller.png` | Drawn by Karen Cochrane |
+'assest/images/background.jpeg' | Photo by  Rayoutthere
 
 ## References
+[1]
 
 N/A
