@@ -19,5 +19,5 @@ To play via GitHub Pages, visit the link provided on the submission page.
 'assest/images/background.jpeg' | Photo by  Rayoutthere
 
 ## References
-[1]
+[1] Google. n.d. Sketchy empty building - Google Search. Retrieved May 20, 2026 from https://www.google.com/search?q=sketchy+empty+building
 
