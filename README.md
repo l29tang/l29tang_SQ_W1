@@ -21,4 +21,3 @@ To play via GitHub Pages, visit the link provided on the submission page.
 ## References
 [1]
 
-N/A
